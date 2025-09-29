@@ -1,0 +1,14 @@
+﻿Pool/Lane,Element Type,Description,Module(s),AI/ML
+,Start Event,,M13,—
+,Task,,M13,KYC/AML API
+,Task,,M13,Peer benchmarking
+,Gateway,,M13,—
+,End Event,,M13,—
+,Task,,M13,—
+,Task,,M31,—
+,Task,,M13,—
+,Task,,M13 / M14,Waterfall engine
+,Task,,M13,—
+,Task,,M15,—
+,Task,,M04,—
+,End Event,,M13,—
